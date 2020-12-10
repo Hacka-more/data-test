@@ -1,4 +1,4 @@
-# data-test
+# Poverty Index
 ##world poverty index (Data driven compettion for world bank poverty rate)##
 
 For further read up: https://www.drivendata.co/blog/worldbank-poverty-benchmark/
